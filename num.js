@@ -1,4 +1,4 @@
-var n1,n2,n3,t,mayor;
+var n1,n2,n3;
 	n1 = parseInt(prompt("Número 1"));
 	n2 = parseInt(prompt("Número 2"));
 	n3 = parseInt(prompt("Número 3"));
